@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1091509780559",
+    "firebase_url": "https://tip-assignment-default-rtdb.firebaseio.com",
+    "project_id": "tip-assignment",
+    "storage_bucket": "tip-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091509780559:android:8bb72d5f53e8b004276a3a",
+        "android_client_info": {
+          "package_name": "com.smartherd.assignment_tip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091509780559-ctme4c1di7tnfbbn1sl08k4ut2k4gd88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxyK4rV66CH33SNIQidrIZ-RW1c9MsMCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091509780559-ctme4c1di7tnfbbn1sl08k4ut2k4gd88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
